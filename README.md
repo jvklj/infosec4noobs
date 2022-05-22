@@ -27,32 +27,6 @@
   </p>
 </p>
     
- <!-- ABOUT THE PROJECT -->
-
-## Sobre o Projeto
-Repositório dedicado ao compartilhamento de cursos **gratuitos** relacionados à segurança da informação e suas subáreas.
-
-<!-- ROADMAP OF PROJECT -->
-
-
-### Links
-| Nome  | Idioma | Pago? |
-|:--    |:--:    |:--:   |
-
-
-### Livros
-| Nome  | Idioma | Pago? |
-|:--    |:--:    |:--:   |
-
-
-### Comunidades
-| Nome  | Idioma |
-|:--    |:--:    |
-
-
-### Eventos
-| Nome  | Idioma | Pago? |
-|:--    |:--:    |:--:   |
 <!-- CONTRIBUTING -->
 
 
@@ -61,7 +35,6 @@ Repositório dedicado ao compartilhamento de cursos **gratuitos** relacionados �
 - **João Vitor Vaz** - Information Security Analyst - [Twitter](https://twitter.com/jvklj)
 
 ---
-
 
 <p align="center">Made with 💜</p>
 
