@@ -2,6 +2,7 @@
 
 <p align="center">
   <h2 align="center">InfoSec4Noobs</h2>  
+  <br />
   <p align="center">
     <a  href="https://github.com/jvklj/infosec4noobs/tree/main/portuguese">
     <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="30">
@@ -15,7 +16,6 @@
     <a  href="https://github.com/jvklj/infosec4noobs/tree/main/german">
     <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="30">
     </a>
-    <br />
     <br />
     <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
