@@ -21,16 +21,25 @@ Reposit√≥rio dedicado ao compartilhamento de cursos **gratuitos** relacionados √
 
 <!-- ROADMAP OF PROJECT -->
 
-## ROADMAP
 
 ### Links
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
+
 
 ### Livros
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
+
 
 ### Comunidades
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
+
 
 ### Eventos
-
+| Nome  | Idioma | Pago? |
+|:--    |:--:    |:--:   |
 <!-- CONTRIBUTING -->
 
 
