@@ -33,8 +33,8 @@ Reposit√≥rio dedicado ao compartilhamento de cursos **gratuitos** relacionados √
 
 
 ### Comunidades
-| Nome  | Idioma | Pago? |
-|:--    |:--:    |:--:   |
+| Nome  | Idioma |
+|:--    |:--:    |
 
 
 ### Eventos
