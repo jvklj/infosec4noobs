@@ -16,7 +16,7 @@
     <a  href="/french/">
     <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="30">
     </a>
-    <a  href="../german/">
+    <a  href="/german/">
     <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="30">
     </a>
     <br />
