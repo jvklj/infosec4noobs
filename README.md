@@ -7,12 +7,18 @@
     <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
     <br />
-    <a  href="/portugue/README.md">
+    <a  href="/portugue/">
     <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="30">
     </a>
+    <a  href="/enlgish/">
     <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="30">
+    </a>
+    <a  href="/french/">
     <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="30">
+    </a>
+    <a  href="../german/">
     <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="30">
+    </a>
     <br />
     <br />
     <a href="link-para-abrir-issue">Report Bug</a>
