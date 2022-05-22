@@ -7,16 +7,16 @@
     <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
     <br />
-    <a  href="/portugue/">
+    <a  href="https://github.com/jvklj/infosec4noobs/tree/main/portuguese">
     <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="30">
     </a>
-    <a  href="/enlgish/">
+    <a  href="https://github.com/jvklj/infosec4noobs/tree/main/english">
     <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="30">
     </a>
-    <a  href="/french/">
+    <a  href="https://github.com/jvklj/infosec4noobs/tree/main/french">
     <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="30">
     </a>
-    <a  href="/german/">
+    <a  href="https://github.com/jvklj/infosec4noobs/tree/main/german">
     <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="30">
     </a>
     <br />
