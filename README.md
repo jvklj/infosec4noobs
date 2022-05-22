@@ -61,7 +61,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/jvklj"><img src="https://avatars.githubusercontent.com/u/55771765?v=4?s=100" width="100px;" alt=""/><br /><sub><b>João Vitor Vaz</b></sub></a><br /><a href="#content-jvklj" title="Content">🖋</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Documentation">📖</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Code">💻</a> <a href="#maintenance-jvklj" title="Maintenance">🚧</a> <a href="#mentoring-jvklj" title="Mentoring">🧑‍🏫</a></td>
+     <td align="center"><a href="https://github.com/jvklj"><img src="https://avatars.githubusercontent.com/u/57420463?s=400&v=4" width="100px;" alt=""/><br /><sub><b>João Vitor Vaz</b></sub></a><br /><a href="#content-jvklj" title="Content">🖋</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Documentation">📖</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Code">💻</a> <a href="#maintenance-jvklj" title="Maintenance">🚧</a> <a href="#mentoring-jvklj" title="Mentoring">🧑‍🏫</a></td>
 
   </tr>
 </table>
