@@ -1,12 +1,8 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">InfoSec4Noobs</h2>
-  
+  <h2 align="center">InfoSec4Noobs</h2>  
   <p align="center">
-    <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
-    <br />
     <a  href="https://github.com/jvklj/infosec4noobs/tree/main/portuguese">
     <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="30">
     </a>
@@ -20,6 +16,9 @@
     <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="30">
     </a>
     <br />
+    <br />
+    <br />
+    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
     <br />
     <a href="link-para-abrir-issue">Report Bug</a>
     ·
