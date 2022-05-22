@@ -70,4 +70,4 @@ Nosso obrigado vai pra essas pessoas incríveis ([emoji key](https://allcontribu
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors).
-Contribuições de qualquer tipo são bem-vindas!
+<p>Contribuições de qualquer tipo são bem-vindas!</p>
