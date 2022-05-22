@@ -17,12 +17,11 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Repositório dedicado ao compartilhamento de cursos gratuitos relacionados à segurança da informação e suas subáreas.
+Repositório dedicado ao compartilhamento de cursos **gratuitos** relacionados à segurança da informação e suas subáreas.
 
 <!-- ROADMAP OF PROJECT -->
 
 ## ROADMAP
-
 
 ### Links
 
@@ -34,20 +33,10 @@ Repositório dedicado ao compartilhamento de cursos gratuitos relacionados à se
 
 <!-- CONTRIBUTING -->
 
-## Como Contribuir
-
-Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas**
-
-1. Realize um Fork do projeto
-2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
-3. Realize o Commit (`git commit -m 'Adicionado conteudo brabo'`)
-4. Realize o Push no Branch (`git push origin feature/featureBraba`)
-5. Abra um Pull Request
 
 ## Autores
 
-- **João Vitor Vaz** - Information Security Analyst - [@jvklj](seutwitter)
+- **João Vitor Vaz** - Information Security Analyst - [Twitter](https://twitter.com/jvklj)
 
 ---
 
@@ -61,7 +50,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/jvklj"><img src="https://avatars.githubusercontent.com/u/57420463?s=400&v=4" width="100px;" alt=""/><br /><sub><b>João Vitor Vaz</b></sub></a><br /><a href="#content-jvklj" title="Content">🖋</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Documentation">📖</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Code">💻</a> <a href="#maintenance-jvklj" title="Maintenance">🚧</a> <a href="#mentoring-jvklj" title="Mentoring">🧑‍🏫</a></td>
+     <td align="center"><a href="https://github.com/jvklj"><img src="https://avatars.githubusercontent.com/u/57420463?s=400&v=4" width="100px;" alt=""/><br /><sub><b>João Vitor Vaz</b></sub></a><br />
+     <a href="#content-jvklj" title="Content">🖋</a> 
+     <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Documentation">📖</a> 
+     <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Code">💻</a> <a href="#maintenance-jvklj" title="Maintenance">🚧</a> 
+     <a href="#mentoring-jvklj" title="Mentoring">🧑‍🏫</a>
+     </td>
 
   </tr>
 </table>
