@@ -40,9 +40,12 @@ Repositório dedicado ao compartilhamento de cursos **gratuitos** relacionados �
 
 ---
 
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<p align="center">Made with 💜</p>
+
+## Contribuidores ✨
+
+Nosso obrigado vai pra essas pessoas incríveis ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -61,9 +64,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </table>
 
 
-<!-- markdownlint-restore -->
+<!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors).
+Contribuições de qualquer tipo são bem-vindas!
