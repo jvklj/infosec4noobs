@@ -7,7 +7,10 @@
     <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
     <br />
-    [🇺🇸][🇩🇪][🇫🇷][🇧🇷] 
+    <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+    <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
+    <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48">
+    <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48">
     <br />
     <br />
     <a href="link-para-abrir-issue">Report Bug</a>
