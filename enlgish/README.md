@@ -6,8 +6,6 @@
   <p align="center">
     <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
-    [🇺🇸][🇩🇪][🇫🇷][🇧🇷] 
-    
     <br />
     <br />
     <a href="link-para-abrir-issue">Report Bug</a>
