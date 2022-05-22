@@ -1,17 +1,7 @@
-<!-- Logo 4noobs -->
-
-<p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/header_4noobs.svg">
-  </a>
-</p>
-
 <!-- Title -->
 
 <p align="center">
   <h2 align="center">InfoSec4Noobs</h2>
-
-  <h1 align="center"><img src="../.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
   
   <p align="center">
     <br />
@@ -27,24 +17,21 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+Repositório dedicado ao compartilhamento de cursos gratuitos relacionados à segurança da informação e suas subáreas.
 
 <!-- ROADMAP OF PROJECT -->
 
 ## ROADMAP
 
-- [Conteúdo 1](link-primeira-parte)
-- [Conteúdo 2](link-segunda-parte)
-- [Conteúdo 3](link-terceira-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  	- [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-- [Conteúdo 4](link-quarta-parte)
-- [Conteúdo 5](link-quinta-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-  
-  
+
+### Links
+
+### Livros
+
+### Comunidades
+
+### Eventos
+
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
@@ -64,9 +51,36 @@ são **extremamente apreciadas**
 
 ---
 
-<p align="center">
-  <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/footer_4noobs.svg" width="380">
-  </a>
-</p>
+## Contributors ✨
 
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/jvklj"><img src="https://avatars.githubusercontent.com/u/55771765?v=4?s=100" width="100px;" alt=""/><br /><sub><b>João Vitor Vaz</b></sub></a><br /><a href="#content-jvklj" title="Content">🖋</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Documentation">📖</a> <a href="https://github.com/jvklj/InfoSec4Noobs/commits?author=jvklj" title="Code">💻</a> <a href="#maintenance-jvklj" title="Maintenance">🚧</a> <a href="#mentoring-jvklj" title="Mentoring">🧑‍🏫</a></td>
+
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+  </tr>
+</table>
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
